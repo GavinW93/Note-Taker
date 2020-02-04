@@ -14,4 +14,4 @@ I WANT to be able to delete notes I've written before
 
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-app:https://gavinw93.github.io/Note-Taker/
+app:https://note-taker-gavinw93.herokuapp.com/
